@@ -1,5 +1,5 @@
 Implementacion del algoritmo A* para encontrar la ruta 
-mas corta dentro de un grafo ponderado
+mas corta dentro de un grafo dirigido y ponderado
 
 Lee un archivo generado por el generador de instancias, el archivo
 contiene los nodos, con sus coordenadas y las aristas que los unen
